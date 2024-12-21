@@ -22,7 +22,7 @@
       You can find and download instructions for how to build the heaters by clicking
       <a
         class="text-blue-600 visited:text-purple-600"
-        href="https://dn720002.ca.archive.org/0/items/heater-blocs-guide-to-building-a-copper-coil-alcohol-heater-2021_202203/Heater%20Bloc's%20Guide%20to%20Building%20A%20Copper%20Coil%20Alcohol%20Heater%202021.pdf"
+        href="https://archive.org/details/heater-blocs-guide-to-building-a-copper-coil-alcohol-heater-2021_202203/"
       >
         here
       </a>
