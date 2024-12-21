@@ -22,6 +22,11 @@ const router = createRouter({
       name: 'map',
       component: () => import('../views/MapView.vue'),
     },
+    {
+      path: '/heater-bloc',
+      name: 'heater-bloc',
+      component: () => import('../views/HeaterBlocView.vue'),
+    },
   ],
 })
 

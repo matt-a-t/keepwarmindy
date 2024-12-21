@@ -1,0 +1,305 @@
+{
+  "Title": "Indianapolis Warming Centers 2024",
+  "WarmingCenters": [
+    {
+      "Name": "Central Library",
+      "Address": "40 E. St. Clair St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46204",
+      "Phone": "317-275-4100",
+      "Hours": {
+        "Monday": "10 AM - 8 PM",
+        "Tuesday": "10 AM - 8 PM",
+        "Wednesday": "10 AM - 6 PM",
+        "Thursday": "10 AM - 6 PM",
+        "Friday": "10 AM - 5 PM",
+        "Saturday": "10 AM - 5 PM",
+        "Sunday": "1 PM - 5 PM"
+      },
+      "lat": 39.77829911145217,
+      "lng": -86.15674466593431,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions for a brief time. Availability is dependent on forecasted temperatures and weather conditions. Intake Procedure: Walk in. Eligibility Requirements: Open",
+      "url": "http://www.indypl.org/",
+      "holidays": {
+        "Christmas Eve": "Closed",
+        "Christmas Day": "Closed",
+        "New Year's Eve": "Close at 5pm",
+        "New Year's Day": "Closed"
+      }
+    },
+    {
+      "Name": "Wheeler Mission Shelter for Men",
+      "Address": "520 E. Market St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46204",
+      "Phone": "317-687-6795",
+      "Hours": {
+        "Monday": "24 hours",
+        "Tuesday": "24 hours",
+        "Wednesday": "24 hours",
+        "Thursday": "24 hours",
+        "Friday": "24 hours",
+        "Saturday": "24 hours",
+        "Sunday": "24 hours"
+      },
+      "lat": 39.76874938961524,
+      "lng": -86.14820187495688,
+      "Notes": "Provides overnight shelter to homeless men in central Indiana from November 1 through March 31, until shelter is full. Hours of Operation: Intake Referrals: Daily 24 hours -- Check-in: 7:30am-8:30pm Intake Procedure: Call for shelter. -- Check-in between 7:30am-8:30pm ; for those wanting to eat dinner must arrive by 4:30pm . -- Arrive no later than 8:30pm . -- Individuals under the influence of alcohol or drugs will be evaluated on a case-by-case basis ... Eligibility Requirements: Men -- Age 18 or older (Age 18-24 are referred to Outreach, Inc.'s daytime warming center Mon, Wed, and Fri 9:30am-3:30pm , but can return to Wheeler Mission for overnight shelter. Transportation to Outreach, Inc. and back to Wheeler Mission is provided.)",
+      "url": "http://www.wheelermission.org/"
+    },
+    {
+      "Name": "Horizon House",
+      "Address": "1033 E. Washington St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46202",
+      "Phone": "317-423-8909",
+      "Hours": {
+        "Monday": "7 AM - 3 PM",
+        "Tuesday": "7 AM - 7 PM",
+        "Wednesday": "7 AM - 12:30 PM",
+        "Thursday": "7 AM - 7 PM",
+        "Friday": "7 AM - 3 PM",
+        "Saturday": "8 AM - 1 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.766928306640416,
+      "lng": -86.13937051607931,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions for a brief time. Overnight stays are not permitted. Hours of Operation: Mon and Fri 7am-3pm; Tues and Thurs 7am-7pm; Wed 7am-12:30pm; Sat 8am-1pm  Intake Procedure: Walk in. -- Activated when wind chill is below 0 degrees or air temperature is below 10 degrees. -- Additional services (mail, laundry, showers, storage, clothing requests, case management, peer support) are not provided Mon and Fri 10:30am-11:30am, and Tues and Thurs 10:30a ... Eligibility Requirements: Men or women with or without children -- Age 18 or older -- Minors must be accompanied by parent or legal guardian -- Living on the street, in a place not intended for human habitation, or in emergency shelter -OR- Fleeing domestic violence -OR- Exiting an institution, (such ...",
+      "url": "https://www.horizonhouse.cc/"
+    },
+    {
+      "Name": "Salvation Army Fountain Square Corps",
+      "Address": "1337 Shelby St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46203",
+      "Phone": "317-632-0156",
+      "Hours": {
+        "Monday": "10 AM - 4 PM",
+        "Tuesday": "10 AM - 4 PM",
+        "Wednesday": "10 AM - 4 PM",
+        "Thursday": "10 AM - 4 PM",
+        "Friday": "10 AM - 4 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "lat": 39.74921106020834,
+      "lng": -86.13931004491596,
+      "Notes": "Provides a daytime warming center open to all needing relief from the current cold weather conditions; city-declared days only Registered service animals are permitted. Overnight shelter is not provided. Hours of Operation: Office: Mon-Fri 10am-4pm  Intake Procedure: Visit the center during hours listed. Eligibility Requirements: Open to all people in need of relief from the cold",
+      "url": "https://centralusa.salvationarmy.org/fountainsquare/"
+    },
+    {
+      "Name": "Indy Parks and Recreation",
+      "Address": "2360 Dr. Martin Luter King Junior St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46208",
+      "Phone": "317-327-7275",
+      "Hours": {
+        "Monday": "Closed",
+        "Tuesday": "2 PM - 8 PM",
+        "Wednesday": "2 PM - 8 PM",
+        "Thursday": "2 PM - 8 PM",
+        "Friday": "2 PM - 8 PM",
+        "Saturday": "11 AM - 4 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.80085650854911,
+      "lng": -86.17050430193281,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Hours of Operation: Tues-Fri 2pm-8pm; Sat 11am-4pm  Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Outreach Inc.",
+      "Address": "2416 E. New York St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46201",
+      "Phone": "317-951-8886",
+      "Hours": {
+        "Monday": "9:30 AM - 4 PM",
+        "Tuesday": "9:30 AM - 4 PM",
+        "Wednesday": "9:30 AM - 4 PM",
+        "Thursday": "9:30 AM - 4 PM",
+        "Friday": "9:30 AM - 4 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "lat": 39.7723951315154,
+      "lng": -86.12106683446505,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions for a brief time. Overnight stays are not permitted. Hours of Operation: Mon-Fri 9:30am-4pm Intake Procedure: Walk in. -- Activated when air temperature is 10 degrees or below OR wind chill is 0 degrees or below. -- Traditional services and coaching are not guaranteed on Tues and Thurs 9:30am-4pm . -- Outreach staff will be available to assist with transportation to shel ... Eligibility Requirements: Living in Marion County -- Age 14-24 -- Experiencing housing instability",
+      "url": "https://www.outreachindiana.org/"
+    },
+    {
+      "Name": "Indy Parks and Recreation",
+      "Address": "1720 West Wilkins St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46221",
+      "Phone": "317-327-7275",
+      "Hours": {
+        "Monday": "Closed",
+        "Tuesday": "4 PM - 8 PM",
+        "Wednesday": "4 PM - 8 PM",
+        "Thursday": "4 PM - 8 PM",
+        "Friday": "4 PM - 8 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "lat": 39.754830993161825,
+      "lng": -86.19118862652985,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Hours of Operation: Tues-Fri 4pm-8pm Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Indy Parks and Recreation",
+      "Address": "1616 East 25th St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46205",
+      "Phone": "317-327-7174",
+      "Hours": {
+        "Monday": "12 PM - 8 PM",
+        "Tuesday": "10 AM - 8 PM",
+        "Wednesday": "12 PM - 8 PM",
+        "Thursday": "10 AM - 8 PM",
+        "Friday": "12 PM - 8 PM",
+        "Saturday": "10 AM - 3 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.80416885642398,
+      "lng": -86.13145660747986,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Hours of Operation: Mon, Wed, and Fri noon-8pm; Tues and Thurs 10am-8pm; Sat 10am-3pm  Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County.",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Wheeler Mission Center for Women and Children",
+      "Address": "3208 E. Michigan St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46201",
+      "Phone": "317-687-3630",
+      "Hours": {
+        "Monday": "24 hours",
+        "Tuesday": "24 hours",
+        "Wednesday": "24 hours",
+        "Thursday": "24 hours",
+        "Friday": "24 hours",
+        "Saturday": "24 hours",
+        "Sunday": "24 hours"
+      },
+      "lat": 39.77516411957316,
+      "lng": -86.11051442652908,
+      "Notes": "Provides overnight shelter to homeless women in central Indiana from November 1 through March 31, until shelter is full. Hours of Operation: Intake Referrals: Daily 24 hours -- Check-in: 4pm-7pm Intake Procedure: Call for shelter. -- Check-in between 4pm-7pm ; for those wanting to eat dinner must arrive by 5pm . -- Arrive no later than 7pm . -- Must leave the facility by 8am  (breakfast provided prior to 8am ). -- Individual ... Eligibility Requirements: Women -- Age 18 or older -- Without children",
+      "url": "http://www.wheelermission.org/"
+    },
+    {
+      "Name": "West Morris Street Free Methodist Church",
+      "Address": "2302 W. Morris St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46221",
+      "Phone": "317-632-8311",
+      "Hours": {
+        "Monday": "9 AM - 12 PM and 5 PM - 9 PM",
+        "Tuesday": "9 AM - 12 PM and 5 PM - 9 PM",
+        "Wednesday": "9 AM - 12 PM and 5 PM - 9 PM",
+        "Thursday": "9 AM - 12 PM and 5 PM - 9 PM",
+        "Friday": "9 AM - 12 PM and 5 PM - 9 PM",
+        "Saturday": "9 AM - 12 PM and 5 PM - 9 PM",
+        "Sunday": "9 AM - 12 PM and 5 PM - 9 PM"
+      },
+      "lat": 39.75132014675107,
+      "lng": -86.20002574491585,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions for a brief time. Availability is dependent on forecasted temperatures and weather conditions. Hours of Operation: Sun-Sat: 9am-noon and 5pm-9pm Intake Procedure: Walk in. Eligibility Requirements: Open",
+      "url": "https://www.westmorrisfm.org/"
+    },
+    {
+      "Name": "Indy Parks and Recreation",
+      "Address": "1831 Lafayette Rd.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46222",
+      "Phone": "317-327-7275",
+      "Hours": {
+        "Monday": "Closed",
+        "Tuesday": "10 AM - 8 PM",
+        "Wednesday": "12 PM - 8 PM",
+        "Thursday": "10 AM - 8 PM",
+        "Friday": "3 PM - 8 PM",
+        "Saturday": "11 AM - 4 PM",
+        "Sunday": "2 PM - 8 PM"
+      },
+      "lat": 39.79304264561129,
+      "lng": -86.20233766145883,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Hours of Operation: Tues and Thurs 10am-8pm; Wed noon-8pm; Fri 3pm-8pm; Sat 11am-4pm; Sun 2pm-8pm  Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Indy Parks and Recreation",
+      "Address": "2420 East Riverside Dr.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46208",
+      "Phone": "317-327-7275",
+      "Hours": {
+        "Monday": "10 AM - 6 PM",
+        "Tuesday": "11 AM - 8 PM",
+        "Wednesday": "11 AM - 8 PM",
+        "Thursday": "11 AM - 8 PM",
+        "Friday": "11 AM - 8 PM",
+        "Saturday": "11 AM - 3 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.801789524962935,
+      "lng": -86.19309701793006,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Hours of Operation: Mon 10am-6pm; Tues-Fri 11am-8pm; Sat 11am-3pm Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Assessment and Intervention Center",
+      "Address": "2979 East Pleasant Run Pkwy. N. Dr.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46203",
+      "Phone": "317-327-8733",
+      "Hours": {
+        "Monday": "24 hours",
+        "Tuesday": "24 hours",
+        "Wednesday": "24 hours",
+        "Thursday": "24 hours",
+        "Friday": "24 hours",
+        "Saturday": "24 hours",
+        "Sunday": "24 hours"
+      },
+      "lat": 39.757571737498985,
+      "lng": -86.11321458909569,
+      "Notes": "Provides overnight shelter to homeless men in central Indiana from November 1 through March 31, when all other shelters are full. Hours of Operation: Intake Referrals: Daily 24 hours -- Check-in: 6pm Intake Procedure: Call to confirm availability. -- Check in at 6pm ; dinner provided. -- Must leave the facility by 8am  (breakfast not available) Eligibility Requirements: Men -- Age 18 or older -- Without children",
+      "url": "https://www.indy.gov/activity/resource-assessment-and-intervention-center"
+    },
+    {
+      "Name": "Indy Parks and Recreation",
+      "Address": "3500 Brookside Parkway South Drive",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46201",
+      "Phone": "317-327-7179",
+      "Hours": {
+        "Monday": "Closed",
+        "Tuesday": "12 PM - 8 PM",
+        "Wednesday": "12 PM - 8 PM",
+        "Thursday": "12 PM - 8 PM",
+        "Friday": "12 PM - 8 PM",
+        "Saturday": "10 AM - 4 PM",
+        "Sunday": "10 AM - 6 PM"
+      },
+      "lat": 39.78941080018278,
+      "lng": -86.10452643142247,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Hours of Operation: Tues-Fri noon-8pm; Sat 10am-4pm; Sun 10am-6pm Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    }
+  ]
+}
