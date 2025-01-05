@@ -323,7 +323,7 @@
       "url": "https://parks.indy.gov/"
     },
     {
-      "Name": "Indy Parks and Recreation",
+      "Name": "Stanley Strader Park Family Center",
       "Address": "2850 Bethel Avenue",
       "City": "Indianapolis",
       "State": "IN",
@@ -487,6 +487,27 @@
       },
       "lat": 39.80664993826391,
       "lng": -86.0562549001249,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Perry Park Family Center",
+      "Address": "451 E. Stop 11 Rd.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46227",
+      "Phone": "317-888-0070",
+      "Hours": {
+        "Monday": "12 PM - 6 PM",
+        "Tuesday": "12 PM - 6 PM",
+        "Wednesday": "12 PM - 6 PM",
+        "Thursday": "12 PM - 6 PM",
+        "Friday": "12 PM - 6 PM",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
+      },
+      "lat": 39.65068400288864,
+      "lng": -86.15475289108666,
       "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
       "url": "https://parks.indy.gov/"
     }
