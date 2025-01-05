@@ -92,7 +92,7 @@
       "url": "https://centralusa.salvationarmy.org/fountainsquare/"
     },
     {
-      "Name": "Indy Parks and Recreation",
+      "Name": "Watkins Park Family Center",
       "Address": "2360 Dr. Martin Luter King Junior St.",
       "City": "Indianapolis",
       "State": "IN",
@@ -134,12 +134,12 @@
       "url": "https://www.outreachindiana.org/"
     },
     {
-      "Name": "Indy Parks and Recreation",
+      "Name": "Rhodius Park Family Center",
       "Address": "1720 West Wilkins St.",
       "City": "Indianapolis",
       "State": "IN",
       "Zip": "46221",
-      "Phone": "317-327-7275",
+      "Phone": "317-327-7191",
       "Hours": {
         "Monday": "Closed",
         "Tuesday": "4 PM - 8 PM",
@@ -155,7 +155,7 @@
       "url": "https://parks.indy.gov/"
     },
     {
-      "Name": "Indy Parks and Recreation",
+      "Name": "Federick Douglass Park Family Center",
       "Address": "1616 East 25th St.",
       "City": "Indianapolis",
       "State": "IN",
@@ -218,12 +218,12 @@
       "url": "https://www.westmorrisfm.org/"
     },
     {
-      "Name": "Indy Parks and Recreation",
+      "Name": "Municipal Gardens Family Center",
       "Address": "1831 Lafayette Rd.",
       "City": "Indianapolis",
       "State": "IN",
       "Zip": "46222",
-      "Phone": "317-327-7275",
+      "Phone": "317-327-7190",
       "Hours": {
         "Monday": "Closed",
         "Tuesday": "10 AM - 8 PM",
@@ -239,7 +239,7 @@
       "url": "https://parks.indy.gov/"
     },
     {
-      "Name": "Indy Parks and Recreation",
+      "Name": "Riverside Park Family Center",
       "Address": "2420 East Riverside Dr.",
       "City": "Indianapolis",
       "State": "IN",
@@ -281,7 +281,7 @@
       "url": "https://www.indy.gov/activity/resource-assessment-and-intervention-center"
     },
     {
-      "Name": "Indy Parks and Recreation",
+      "Name": "Brookside Park Family Center",
       "Address": "3500 Brookside Parkway South Drive",
       "City": "Indianapolis",
       "State": "IN",
@@ -302,7 +302,7 @@
       "url": "https://parks.indy.gov/"
     },
     {
-      "Name": "Indy Parks and Recreation",
+      "Name": "Garfield Park Burrello Family Center",
       "Address": "2345 Pagoda Dr",
       "City": "Indianapolis",
       "State": "IN",
@@ -344,7 +344,7 @@
       "url": "https://parks.indy.gov/"
     },
     {
-      "Name": "Indy Parks and Recreation",
+      "Name": "Pride Park Family Center",
       "Address": "1129 S. Vandeman Street",
       "City": "Indianapolis",
       "State": "IN",
@@ -361,6 +361,132 @@
       },
       "lat": 39.75163960601046,
       "lng": -86.10906720457614,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Broad Ripple Park Family Center",
+      "Address": "1426 Broad Ripple Ave.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46220",
+      "Phone": "317-327-7161",
+      "Hours": {
+        "Monday": "9 AM - 8 PM",
+        "Tuesday": "9 AM - 8 PM",
+        "Wednesday": "9 AM - 8 PM",
+        "Thursday": "9 AM - 8 PM",
+        "Friday": "9 AM - 8 PM",
+        "Saturday": "9 AM - 5 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.87047842100053,
+      "lng": -86.13212850272244,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Christian Park Family Center",
+      "Address": "4200 English Ave.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46201",
+      "Phone": "317-327-7163",
+      "Hours": {
+        "Monday": "12 PM - 8 PM",
+        "Tuesday": "12 PM - 8 PM",
+        "Wednesday": "12 PM - 8 PM",
+        "Thursday": "12 PM - 8 PM",
+        "Friday": "12 PM - 8 PM",
+        "Saturday": "11 AM - 3 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.761739088787195,
+      "lng": -86.09644518506582,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Krannert Park Family Center",
+      "Address": "605 S. High School Rd.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46241",
+      "Phone": "317-327-7375",
+      "Hours": {
+        "Monday": "9 AM - 7 PM",
+        "Tuesday": "9 AM - 7 PM",
+        "Wednesday": "9 AM - 7 PM",
+        "Thursday": "9 AM - 7 PM",
+        "Friday": "9 AM - 7 PM",
+        "Saturday": "10 AM - 4 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.7571461903815,
+      "lng": -86.26688847231819,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Thatcher Park Family Center",
+      "Address": "4649 W. Vermont St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46222",
+      "Phone": "317-327-7390",
+      "Hours": {
+        "Monday": "10 AM - 6 PM",
+        "Tuesday": "9 AM - 8 PM",
+        "Wednesday": "9 AM - 8 PM",
+        "Thursday": "9 AM - 8 PM",
+        "Friday": "9 AM - 8 PM",
+        "Saturday": "11 AM - 4 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.77020963956935,
+      "lng": -86.24024167959968,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Washington Park Family Center",
+      "Address": "3130 E. 30th St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46218",
+      "Phone": "317-327-7473",
+      "Hours": {
+        "Monday": "Closed",
+        "Tuesday": "9 AM - 8 PM",
+        "Wednesday": "9 AM - 8 PM",
+        "Thursday": "9 AM - 8 PM",
+        "Friday": "9 AM - 8 PM",
+        "Saturday": "10 AM - 4 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.81205524273695,
+      "lng": -86.1143885183016,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Windsor Park Family Center",
+      "Address": "6510 E. 25th St.",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46219",
+      "Phone": "317-327-7162",
+      "Hours": {
+        "Monday": "10 AM - 6 PM",
+        "Tuesday": "1 PM - 8 PM",
+        "Wednesday": "1 PM - 8 PM",
+        "Thursday": "1 PM - 8 PM",
+        "Friday": "1 PM - 8 PM",
+        "Saturday": "11 AM - 4 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.80664993826391,
+      "lng": -86.0562549001249,
       "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
       "url": "https://parks.indy.gov/"
     }
