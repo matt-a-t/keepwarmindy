@@ -20,13 +20,7 @@
       "lat": 39.77829911145217,
       "lng": -86.15674466593431,
       "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions for a brief time. Availability is dependent on forecasted temperatures and weather conditions. Intake Procedure: Walk in. Eligibility Requirements: Open",
-      "url": "http://www.indypl.org/",
-      "holidays": {
-        "Christmas Eve": "Closed",
-        "Christmas Day": "Closed",
-        "New Year's Eve": "Close at 5pm",
-        "New Year's Day": "Closed"
-      }
+      "url": "http://www.indypl.org/"
     },
     {
       "Name": "Wheeler Mission Shelter for Men",

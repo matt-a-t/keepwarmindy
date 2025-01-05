@@ -27,6 +27,11 @@ const router = createRouter({
       name: 'heater-bloc',
       component: () => import('../views/HeaterBlocView.vue'),
     },
+    {
+      path: '/map/print',
+      name: 'map-print',
+      component: () => import('../views/MapPrintView.vue'),
+    },
   ],
 })
 
