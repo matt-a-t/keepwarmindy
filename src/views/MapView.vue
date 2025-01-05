@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { GoogleMap, AdvancedMarker, MarkerCluster, InfoWindow } from 'vue3-google-map'
-import { WarmingCenters } from '../assets/warming-centers-2024.json'
+import { WarmingCenters } from '../assets/warming-centers-2025.json'
 const center = { lat: 39.7684, lng: -86.1581 }
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -24,7 +24,7 @@ const markers = WarmingCenters.map((center: any, i: number) => ({
 <template>
   <h2 class="text-2xl my-10">Indy Warming Centers Map</h2>
   <p class="text-lg my-4">
-    This map shows the warming centers in Indianapolis for the year 2024. Please click on the
+    This map shows the warming centers in Indianapolis for the year 2025. Please click on the
     markers to open details about each center. The map is centered on downtown Indianapolis. Please
     note that the information is subject to change and while we strive to keep it up to date, we
     cannot guarantee the accuracy of the information. Please contact the warming center directly for

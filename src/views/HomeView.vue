@@ -10,7 +10,7 @@
     </p>
     <p class="my-2">
       This app is designed to help you find warming centers in Indianapolis. These warming centers
-      are for the year 2024. Click on the Map link in the navigation bar to see a map of warming
+      are for the year 2025. Click on the Map link in the navigation bar to see a map of warming
       centers in Indianapolis or
       <a href="/map" class="text-blue-600 visited:text-purple-600">click here</a>.
     </p>

@@ -2,7 +2,7 @@
 
 A site to track places to warm up in Indy during winter 2025.
 
-The list of warming centers can be found at `/src/assets/warming-centers-2024.json`
+The list of warming centers can be found at `/src/assets/warming-centers-2025.json`
 
 ## For Development
 
