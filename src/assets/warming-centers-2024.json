@@ -67,7 +67,7 @@
       },
       "lat": 39.766928306640416,
       "lng": -86.13937051607931,
-      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions for a brief time. Overnight stays are not permitted. Hours of Operation: Mon and Fri 7am-3pm; Tues and Thurs 7am-7pm; Wed 7am-12:30pm; Sat 8am-1pm  Intake Procedure: Walk in. -- Activated when wind chill is below 0 degrees or air temperature is below 10 degrees. -- Additional services (mail, laundry, showers, storage, clothing requests, case management, peer support) are not provided Mon and Fri 10:30am-11:30am, and Tues and Thurs 10:30a ... Eligibility Requirements: Men or women with or without children -- Age 18 or older -- Minors must be accompanied by parent or legal guardian -- Living on the street, in a place not intended for human habitation, or in emergency shelter -OR- Fleeing domestic violence -OR- Exiting an institution, (such ...",
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions for a brief time. Overnight stays are not permitted. Intake Procedure: Walk in. -- Activated when wind chill is below 0 degrees or air temperature is below 10 degrees. -- Additional services (mail, laundry, showers, storage, clothing requests, case management, peer support) are not provided Mon and Fri 10:30am-11:30am, and Tues and Thurs 10:30a ... Eligibility Requirements: Men or women with or without children -- Age 18 or older -- Minors must be accompanied by parent or legal guardian -- Living on the street, in a place not intended for human habitation, or in emergency shelter -OR- Fleeing domestic violence -OR- Exiting an institution, (such ...",
       "url": "https://www.horizonhouse.cc/"
     },
     {
@@ -299,6 +299,69 @@
       "lat": 39.78941080018278,
       "lng": -86.10452643142247,
       "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Hours of Operation: Tues-Fri noon-8pm; Sat 10am-4pm; Sun 10am-6pm Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Indy Parks and Recreation",
+      "Address": "2345 Pagoda Dr",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46203",
+      "Phone": "317-327-7220",
+      "Hours": {
+        "Monday": "10 AM - 8 PM",
+        "Tuesday": "10 AM - 8 PM",
+        "Wednesday": "10 AM - 8 PM",
+        "Thursday": "10 AM - 8 PM",
+        "Friday": "10 AM - 8 PM",
+        "Saturday": "10 AM - 4 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.73446148390755,
+      "lng": -86.14839489521457,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Indy Parks and Recreation",
+      "Address": "2850 Bethel Avenue",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46203",
+      "Phone": "317-327-7480",
+      "Hours": {
+        "Monday": "Closed",
+        "Tuesday": "11 AM - 8 PM",
+        "Wednesday": "11 AM - 8 PM",
+        "Thursday": "11 AM - 8 PM",
+        "Friday": "11 AM - 8 PM",
+        "Saturday": "9 AM - 3 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.743686387308884,
+      "lng": -86.11426226208596,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
+      "url": "https://parks.indy.gov/"
+    },
+    {
+      "Name": "Indy Parks and Recreation",
+      "Address": "1129 S. Vandeman Street",
+      "City": "Indianapolis",
+      "State": "IN",
+      "Zip": "46203",
+      "Phone": "317-327-7164",
+      "Hours": {
+        "Monday": "2 PM - 7 PM",
+        "Tuesday": "2 PM - 7 PM",
+        "Wednesday": "2 PM - 7 PM",
+        "Thursday": "2 PM - 7 PM",
+        "Friday": "2 PM - 7 PM",
+        "Saturday": "11 AM - 3 PM",
+        "Sunday": "Closed"
+      },
+      "lat": 39.75163960601046,
+      "lng": -86.10906720457614,
+      "Notes": "Offers a place for people to get temporary relief from extreme cold and severe winter weather conditions. Space is limited, and there is no plan to offer long-term relief, food, or other refreshments to those seeking relief. This is NOT an overnight shelter. Intake Procedure: Walk in during normal Family Center hours. Eligibility Requirements: Open; serves Marion County",
       "url": "https://parks.indy.gov/"
     }
   ]
