@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import { GoogleMap, AdvancedMarker, MarkerCluster } from 'vue3-google-map'
-import { WarmingCenters } from '../assets/warming-centers-2025.json'
+import { WarmingCenters } from '../assets/warming-centers-2026.json'
 import CenterInfo from '@/components/CenterInfo.vue'
 import { transformCenters } from '@/utils'
 import { ref } from 'vue'

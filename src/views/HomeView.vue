@@ -2,19 +2,21 @@
 
 <template>
   <main>
-    <h2 class="text-2xl my-10">Welcome to Keep Warm Indy!</h2>
-    <p class="text-lg my-4">
+    <h1 class="text-4xl my-10">Welcome to Keep Warm Indy!</h1>
+    <p class="text-xl my-4">
       No one should have to be cold. Shelter is a basic human right and there is more than enough
       for everyone. There are nearly 2000 people experiencing homelessness in Indianapolis on any
       given night. It is a travesty anyone in our community should be without shelter.
     </p>
-    <p class="my-2">
+    <p class="text-xl my-2">
       This app is designed to help you find warming centers in Indianapolis. These warming centers
-      are for the year 2025. Click on the Map link in the navigation bar to see a map of warming
-      centers in Indianapolis or
-      <a href="/map" class="text-blue-600 visited:text-purple-600">click here</a>.
+      have been updated for the winter starting in 2025 and ending in 2026. Open the map to see
+      warming centers in Indianapolis.
     </p>
-    <p class="my-2">
+    <a href="/map" class="text-blue-600 my-8 block text-center text-2xl visited:text-purple-600"
+      >Open Map</a
+    >
+    <p class="my-4">
       If you would like to learn more about the site, click on the About link in the navigation bar.
     </p>
     <p class="my-2">
